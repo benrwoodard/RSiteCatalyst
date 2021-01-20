@@ -16,7 +16,9 @@ cacheflag = TRUE
 library(fontawesome)
 ```
 
-RSiteCatalyst is an R package for accessing the Adobe Analytics API. The focus of this package are analysts looking for a convenient, programmatic way for accessing their website data using the power of R.
+RSiteCatalyst is an R package for accessing the Adobe Analytics API 1.4. The focus of this package are analysts looking for a convenient, programmatic way for accessing their website data using the power of R.
+
+For the new Adobe Analytics API 2.0 features, check out [adobeanalyticsr](https://adobeanalyticsr.com).
 
 ---
 
